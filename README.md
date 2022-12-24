@@ -4,11 +4,9 @@ My PostgreSQL
 
 ## Use PostgreSQL with Docker in Windows
 
-### pgAdmin 4
+### IntelliJ (My 1st choice)
 
-<http://www.pgadmin.org>
-
-### IntelliJ
+It's handy to do one-stop-shoppings at a place like Costco.
 
 Install "Database Navigator" plugin!
 
@@ -27,6 +25,14 @@ Note:
 - This doc is good but didn't mention the plugin!
 
 <https://www.jetbrains.com/help/idea/running-a-dbms-image.html#connect_to_psql>
+
+### pgAdmin 4
+
+<http://www.pgadmin.org>
+
+Looks like this tool has lot of defects!
+
+![1671898839647](image/README/1671898839647.png)
 
 ## Reference
 
