@@ -2,13 +2,21 @@
 
 My PostgreSQL
 
-## Use PostgreSQL in Windows
+## Use PostgreSQL with Docker in Windows
 
-Docker
-
-pgAdmin 4
+### pgAdmin 4
 
 <http://www.pgadmin.org>
+
+### IntelliJ
+
+Install "Database Navigator" plugin!
+
+![1671895288627](image/README/1671895288627.png)
+
+Note:
+
+"Database tools" plugin is not free - uninstall / disable it!
 
 ## Reference
 
