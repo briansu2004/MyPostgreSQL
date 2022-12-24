@@ -20,9 +20,11 @@ Install "Database Navigator" plugin!
 
 Note:
 
-"Database tools" plugin is not free - uninstall / disable it!
+- Mind the "Auto-Commit" setting!
 
-This doc is good but didn't mention the plugin!
+- "Database tools" plugin is not free - uninstall / disable it!
+
+- This doc is good but didn't mention the plugin!
 
 <https://www.jetbrains.com/help/idea/running-a-dbms-image.html#connect_to_psql>
 
