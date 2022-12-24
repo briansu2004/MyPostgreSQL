@@ -14,6 +14,10 @@ Install "Database Navigator" plugin!
 
 ![1671895288627](image/README/1671895288627.png)
 
+![1671895340248](image/README/1671895340248.png)
+
+
+
 Note:
 
 "Database tools" plugin is not free - uninstall / disable it!
