@@ -14,7 +14,9 @@ Install "Database Navigator" plugin!
 
 ![1671895288627](image/README/1671895288627.png)
 
-![1671895340248](image/README/1671895340248.png)
+![1671897002593](image/README/1671897002593.png)
+
+![1671896942823](image/README/1671896942823.png)
 
 Note:
 
@@ -27,3 +29,20 @@ This doc is good but didn't mention the plugin!
 ## Reference
 
 <https://wiki.postgresql.org/wiki/PostgreSQL_Clients>
+
+## Use PostgreSQL with Docker in Mac
+
+...
+
+## Basic syntax
+
+```sql
+DROP TABLE [IF EXISTS] table_name [CASCADE | RESTRICT];
+
+CREATE TABLE [IF NOT EXISTS] table_name (
+   column1 datatype(length) column_contraint,
+   column2 datatype(length) column_contraint,
+   column3 datatype(length) column_contraint,
+   table_constraints
+);
+```
